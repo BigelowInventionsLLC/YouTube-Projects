@@ -1,0 +1,5 @@
+https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch
+https://developer.mozilla.org/en-US/docs/Web/API/Response
+https://developer.mozilla.org/en-US/docs/Web/API/Response/status
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error

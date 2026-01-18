@@ -1,0 +1,3 @@
+https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams
+https://url.spec.whatwg.org/#urlsearchparams
+https://en.wikipedia.org/wiki/Query_string
