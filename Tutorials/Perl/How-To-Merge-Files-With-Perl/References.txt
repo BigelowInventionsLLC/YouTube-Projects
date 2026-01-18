@@ -1,0 +1,2 @@
+Glob Function - https://perldoc.perl.org/functions/glob.html
+Open Function & Modes - https://perldoc.perl.org/functions/open.html
